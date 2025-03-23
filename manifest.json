@@ -4,7 +4,7 @@
   ],
   "dockerRepository": "talkops/demo-home-automation",
   "features": [
-    "Turn on/off the lights"
+    "Turn on/off virtual lights"
   ],
   "icon": "https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678078-light-bulb-512.png",
   "installationSteps": [],

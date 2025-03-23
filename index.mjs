@@ -14,7 +14,7 @@ const extension = new Extension()
   .setCategories(['Demo'])
   .setVersion(pkg.version)
   .setDockerRepository('talkops/demo-home-automation')
-  .setFeatures(['Turn on/off the lights'])
+  .setFeatures(['Turn on/off virtual lights'])
   .setParameters([names])
   .setFunctionSchemas([update_lights])
   .setFunctions([

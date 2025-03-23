@@ -7,7 +7,7 @@ A TalkOps Extension made to work with [TalkOps](https://talkops.app).
 
 ## Features
 
-* Turn on/off the lights
+* Turn on/off virtual lights
 
 ## Installation
 
