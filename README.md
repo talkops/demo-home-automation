@@ -1,9 +1,13 @@
 # TalkOps Extension: Home Automation
+![Docker Pulls](https://img.shields.io/docker/pulls/talkops/demo-home-automation)
 
 A TalkOps Extension made to work with [TalkOps](https://talkops.app).
 
 **TalkOps enables real-time voice interaction with applications.**
 
+## Features
+
+* Turn on/off virtual lights
 
 ## Installation
 

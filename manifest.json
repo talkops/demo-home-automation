@@ -1,14 +1,16 @@
 {
-  "categories": [],
-  "dockerRepository": null,
-  "features": [],
+  "category": "Demo",
+  "dockerRepository": "talkops/demo-home-automation",
+  "features": [
+    "Turn on/off virtual lights"
+  ],
   "icon": "https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678078-light-bulb-512.png",
   "installationSteps": [],
   "name": "Home Automation",
   "sdk": {
     "name": "nodejs",
-    "version": "2.3.4"
+    "version": "2.4.0"
   },
-  "version": null,
+  "version": "1.0.1",
   "website": null
 }
