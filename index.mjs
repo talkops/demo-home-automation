@@ -1,5 +1,4 @@
 import { Extension, Parameter } from 'talkops'
-import pkg from './package.json' with { type: 'json' }
 import update_lights from './schemas/functions/update_lights.json' with { type: 'json' }
 
 const states = new Map()
@@ -12,8 +11,6 @@ const extension = new Extension()
   .setName('Home Automation')
   .setIcon('https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678078-light-bulb-512.png')
   .setCategory('Demo')
-  .setVersion(pkg.version)
-  .setDockerRepository('talkops/demo-home-automation')
   .setFeatures(['Turn on/off virtual lights'])
   .setParameters([names])
   .setFunctionSchemas([update_lights])

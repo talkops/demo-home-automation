@@ -1,6 +1,5 @@
 {
   "category": "Demo",
-  "dockerRepository": "talkops/demo-home-automation",
   "features": [
     "Turn on/off virtual lights"
   ],
@@ -9,8 +8,7 @@
   "name": "Home Automation",
   "sdk": {
     "name": "nodejs",
-    "version": "2.4.0"
+    "version": "2.5.0"
   },
-  "version": "1.0.1",
   "website": null
 }

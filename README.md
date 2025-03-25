@@ -1,5 +1,4 @@
 # TalkOps Extension: Home Automation
-![Docker Pulls](https://img.shields.io/docker/pulls/talkops/demo-home-automation)
 
 A TalkOps Extension made to work with [TalkOps](https://talkops.app).
 
