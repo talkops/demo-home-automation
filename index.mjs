@@ -22,6 +22,7 @@ const extension = new Extension()
       return 'Done.'
     },
   ])
+  .setBootstrap(loop)
 
 function loop() {
   const lights = []
@@ -34,4 +35,3 @@ function loop() {
   )
   setTimeout(loop, 1000)
 }
-loop()
